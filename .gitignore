@@ -1,6 +1,7 @@
 /.direnv/
 /build/
 /.vscode/
+!/include
 
 # Prerequisites
 *.d
